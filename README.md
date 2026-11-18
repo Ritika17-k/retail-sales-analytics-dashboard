@@ -4,8 +4,12 @@ An end-to-end retail sales analysis project using **SQL, Python, and Power BI** 
 
 ## Python Analysis
 
-- [View Jupyter Notebook](data_exploration.ipynb)
-- [View Complete Analysis and Visualizations](data_exploration.html)
+-## Python Analysis
+
+The complete exploratory data analysis, including
+Python code, visualisations and findings, is available here:
+
+[View Data Exploration Notebook](https://nbviewer.org/github/Ritika17-k/retail-sales-analytics-dashboard/blob/main/notebook/data_exploration.ipynb)
 
 ## Project Overview
 
