@@ -2,6 +2,11 @@
 
 An end-to-end retail sales analysis project using **SQL, Python, and Power BI** to explore sales performance, profitability, product categories, regional trends, and customer segments.
 
+## Python Analysis
+
+- [View Jupyter Notebook](data_exploration.ipynb)
+- [View Complete Analysis and Visualizations](data_exploration.html)
+
 ## Project Overview
 
 This project analyses the Sample Superstore retail dataset covering transactions from 2014 to 2017. The objective is to understand business performance, identify profitable and loss-making areas, and generate insights that can support better business decisions.
