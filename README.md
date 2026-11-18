@@ -2,14 +2,6 @@
 
 An end-to-end retail sales analysis project using **SQL, Python, and Power BI** to explore sales performance, profitability, product categories, regional trends, and customer segments.
 
-## Python Analysis
-
--## Python Analysis
-
-The complete exploratory data analysis, including
-Python code, visualisations and findings, is available here:
-
-[View Data Exploration Notebook](https://nbviewer.org/github/Ritika17-k/retail-sales-analytics-dashboard/blob/main/notebook/data_exploration.ipynb)
 
 ## Project Overview
 
